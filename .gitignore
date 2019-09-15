@@ -102,3 +102,21 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# For mac
+.DS_Store
+
+# Images
+.jpg
+.tif
+.png
+.gif
+
+# Data Files
+.pickle
+.p
+.bak
+.dir
+.dat
+.json
+.tar.gz
